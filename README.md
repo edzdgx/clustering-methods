@@ -15,4 +15,3 @@ Using different clustering methods to cluster and filter wind turbine data
 Wind Speed  | Power
 ------------- | -------------
 [m/s]  | [W]
-
